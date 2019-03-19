@@ -1,2 +1,2 @@
 # Microprocessor-Lab
-Work done for my sixth semester microprcessor lab.
+Work done for my sixth semester microprocessor lab.
